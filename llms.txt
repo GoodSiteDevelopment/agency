@@ -1,0 +1,51 @@
+# GoodSiteDevelopment
+
+> Fullstack development, product design, AI agents and DevOps. We take responsibility for the whole path: from the first sketch to production metrics. Moscow. GoodSiteDevelopment is a developer with 20 years of experience and a product designer who has shipped dozens of interfaces. You talk to the people who write the code and draw the screens.
+
+Key facts: 20 years in development; 100/100 Lighthouse on shipped projects; 2 people, no juniors; 6 languages on this site.
+
+## Services
+
+- Fullstack development: Web applications and services from prototype to production.
+- Product UI/UX design: Product design, design systems and clickable prototypes.
+- Telegram WebApp and bots: Mini apps and bots that live inside Telegram.
+- AI agents and RAG: Agents, company knowledge search, self-hosted models.
+- Architecture and DevOps: Infrastructure as code, CI/CD, containers, monitoring.
+- Audit and performance: 100/100/100/100 in Lighthouse without losing features.
+- Microservices and BFF: Splitting a monolith, backend-for-frontend, integrations.
+- Technical consulting: A second opinion on architecture, hiring and code.
+
+## Pages
+
+- [Home (Web application development studio)](https://goodsitedevelopment.github.io/agency/): GoodSiteDevelopment designs and builds web products: fullstack apps, UI/UX, AI agents and RAG, Telegram WebApp, DevOps. A two-person studio with a 100/100/100/100 Lighthouse track record.
+- [Services](https://goodsitedevelopment.github.io/agency/services/): Fullstack development, product UI/UX design, Telegram WebApp, AI agents and RAG, architecture and DevOps, audits and technical consulting.
+- [Cases](https://goodsitedevelopment.github.io/agency/cases/): Selected GoodSiteDevelopment projects: web platforms, AI assistants, Telegram apps and performance work, each with the problem, the decisions and the measured result.
+- [About](https://goodsitedevelopment.github.io/agency/about/): GoodSiteDevelopment is a developer with 20 years of experience and a product designer. We work as partners, not as a vendor: same people from discovery to production.
+- [Insights](https://goodsitedevelopment.github.io/agency/blog/): Practical notes on performance, architecture, AI agents and design systems — with numbers, code and trade-offs, written by the people who shipped them.
+- [FAQ](https://goodsitedevelopment.github.io/agency/faq/): How we start, how long it takes, how we price, how we reach 100/100/100/100 in Lighthouse and what happens after launch.
+- [Contacts](https://goodsitedevelopment.github.io/agency/contacts/): Message us on Telegram to get a first answer within one business day: scope, timeline and a rough estimate before any contract.
+- [Privacy policy](https://goodsitedevelopment.github.io/agency/privacy/): What data this website processes: no analytics, no cookies, no forms — only your language and theme choice stored locally in your browser.
+
+## Contacts
+
+- telegram: https://t.me/gsd_moscow (@gsd_moscow)
+
+## Languages
+
+The site is available in 6 languages; English is the default and lives at the site root:
+- English (en): https://goodsitedevelopment.github.io/agency/
+- Russian (ru): https://goodsitedevelopment.github.io/agency/ru/
+- Spanish (es): https://goodsitedevelopment.github.io/agency/es/
+- German (de): https://goodsitedevelopment.github.io/agency/de/
+- Chinese (Simplified) (zh-Hans): https://goodsitedevelopment.github.io/agency/zh/
+- Arabic (ar): https://goodsitedevelopment.github.io/agency/ar/
+
+## Full text
+
+- [llms-full.txt](https://goodsitedevelopment.github.io/agency/llms-full.txt): the whole marketing copy of the site (services, process, FAQ, about) in one file.
+- [sitemap.xml](https://goodsitedevelopment.github.io/agency/sitemap.xml): every URL with its language alternates.
+
+## Notes
+
+- Cases marked as demo are structure placeholders: their metrics are illustrative.
+- Case studies and blog posts have full texts in English and Russian.

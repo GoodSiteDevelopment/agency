@@ -1,0 +1,354 @@
+# GoodSiteDevelopment — Full site text for AI agents
+# Source: https://goodsitedevelopment.github.io/agency/
+# Company: GoodSiteDevelopment, Moscow. Contact: https://t.me/gsd_moscow
+# Site languages: English, Russian, Spanish, German, Chinese (Simplified), and Arabic.
+# Long-form case studies and articles are available in English and Russian.
+
+## Full site text for AI agents — en
+
+URL: https://goodsitedevelopment.github.io/agency/
+
+# Web application development studio
+
+We design and build digital products that work
+
+Fullstack development, product design, AI agents and DevOps. We take responsibility for the whole path: from the first sketch to production metrics.
+
+Metrics: 20 — years in development; 100/100 — Lighthouse on shipped projects; 2 — people, no juniors; 6 — languages on this site.
+Facts: Fullstack: Go, .NET, Node.js, React; Infrastructure: Docker, Kubernetes, CI/CD; AI: agents, RAG, self-hosted models; Accessibility: WCAG 2.2 AA.
+
+### Services and engagement models
+
+#### Fullstack development
+We design the architecture and write the whole thing: React or Astro on the front end, Go, .NET or Node.js on the back end, plus database, integrations and observability. You get a working product with documentation and tests, not a folder of files.
+Technologies: React, Astro, TypeScript, Go, .NET, Node.js, PostgreSQL.
+
+#### Product UI/UX design
+We start from user tasks and business metrics, not from pretty screens. The design system lives in Figma with tokens, states and breakpoints, and then goes into code without the usual mockup-versus-production drift.
+Technologies: Figma, Design tokens, Design systems, WCAG 2.2 AA.
+
+#### Telegram WebApp and bots
+Telegram WebApp with a native feel: initData authentication, theme and haptics, payments, push scenarios. Bots run on webhooks with queues, retries and an admin panel your support team can actually use.
+Technologies: Telegram WebApp, Bot API, Webhooks, React, Go.
+
+#### AI agents and RAG
+We put AI where it saves hours: support and sales agents, RAG over internal documents, data extraction from email and PDF. We track answer quality and cost per request, and keep your data under your control.
+Technologies: Python, FastAPI, RAG, Vectors, llama.cpp, CrewAI.
+
+#### Architecture and DevOps
+Infrastructure described as code, builds and releases with one command, metrics, logs and alerts in place. The goal is boring releases: no manual steps and no night-time recoveries.
+Technologies: Docker, Kubernetes, Helm, GitHub Actions, Grafana.
+
+#### Audit and performance
+We look at real Core Web Vitals, find why the page is slow and which requests are expensive, then fix it: images and fonts, excess JavaScript, caching, accessibility. The report with before-and-after numbers is part of the audit.
+Technologies: Lighthouse, Core Web Vitals, AVIF/WebP, Profiling.
+
+#### Microservices and BFF
+We carve services along business boundaries, add a BFF so the front end stops assembling ten endpoints, and set up contracts and API versioning. Done gradually, without freezing the product.
+Technologies: REST, gRPC, BFF, Kafka, OpenAPI.
+
+#### Technical consulting
+We join as an external expert: review architecture and bottlenecks, help with stack choices, take part in hiring and code review, mentor the team. Regular calls plus written conclusions.
+Technologies: Architecture, Code review, Hiring, Team mentoring.
+
+### How we work
+
+01. Discovery. We break down the task and the context: who the users are, which metrics matter, what already exists. We fix the scope of the first version and what is explicitly out of it. Agreed first-version scope and timeline estimate.
+02. Design. Prototype of the key screens first, then the visual language and a design system with tokens, states and mobile breakpoints. Clickable prototype and a Figma design system.
+03. Development. Short iterations with a demo every week: front end, back end, integrations, infrastructure. Your repository from day one. Working staging builds and full access to code.
+04. Testing. Automated tests for critical flows, accessibility check against WCAG 2.2 AA, load tests on bottlenecks and Core Web Vitals measurements. Test report and pre-release metrics.
+05. Launch and support. Production release, monitoring, documentation and team handover. After that: ongoing support or a clean hand-off. Production, runbooks and a roadmap.
+
+### Engagement models
+
+#### Turnkey project
+We fix the scope of the first version, do design and development end to end and hand over a finished product.
+4–12 weeks. Full ownership, demo every week. Working product, documentation, code in your repository. Launching a new service or website from scratch.
+
+#### Dedicated team
+We work as part of your team on an ongoing basis: development, design, review, infrastructure.
+from 1 month, rolling. Your sprints and rituals, shared board. More throughput and a shrinking backlog. A product that keeps evolving.
+
+#### Technical audit
+We review architecture, performance and accessibility, then report risks and a prioritised action plan.
+1–2 weeks. One-off project with interviews. Report with measurements, risks and a fix plan. Legacy code, a slow site, preparing to scale.
+
+#### Consulting
+Regular sessions on architecture, hiring and process, plus code review and help for your team.
+hourly or as a package. Calls, written conclusions, code review. Decisions your team implements itself. Teams that need a senior second opinion.
+
+### AI is not a buzzword here — it is production tooling
+
+We build agents that answer support tickets, RAG systems over internal documents and pipelines that extract data from email and PDF. With cost per request under control.
+
+- Agents and RAG on top of your own knowledge base
+- Self-hosted models when data must not leave your perimeter
+- Quality evaluation: we measure answer accuracy, not vibes
+- Cost control: tokens, caching and fallbacks per request
+- Integration with your CRM, help desk or ERP
+
+URL: https://goodsitedevelopment.github.io/agency/about/
+
+# A studio of two, not a faceless agency
+
+GoodSiteDevelopment is a developer with 20 years of experience and a product designer who has shipped dozens of interfaces. You talk to the people who write the code and draw the screens.
+
+We are a duo: a developer and a product designer who also happen to be married. We started working together on projects where one person had to cover both the technical and the visual side.
+
+It turned out that a two-person team moves faster than a chain of departments: decisions are made in one conversation, design and code stay in sync, and nothing is lost in hand-offs.
+
+Today we take projects where both sides matter: a service that must be fast, accessible and commercially viable — not just a beautiful layout or a working API.
+
+#### Developer — Backend, frontend, infrastructure, AI
+20 years in development: from enterprise .NET systems to Go services and AI pipelines. I am responsible for architecture, code quality and the numbers at the end — response time, uptime and Lighthouse score.
+- Languages: Go, C#/.NET, TypeScript, Python
+- Front end: React, Astro, design systems in code
+- Infrastructure: Docker, Kubernetes, CI/CD, monitoring
+- AI: agents, RAG, self-hosted models, evaluation
+- Accessibility and performance as engineering requirements
+
+#### Product designer — UX research, interfaces, design systems
+I design interfaces that people use without instructions: from research and prototypes to a design system the developers can implement without guesswork. Accessibility is part of the craft, not a checklist at the end.
+- UX research, interviews, journey maps
+- Wireframes, prototypes, usability testing
+- Design systems, tokens, component documentation
+- Responsive and accessible layouts, WCAG 2.2 AA
+- Figma to production hand-off without drift
+
+#### Values
+- Transparency: Visible progress, honest estimates, no hidden work in the dark.
+- Craft: We care about details: from naming to a two-millisecond query.
+- Partnership: We argue for the right decision instead of silently following a brief.
+- Responsibility: We stay after launch: metrics, support, improvements.
+
+URL: https://goodsitedevelopment.github.io/agency/faq/
+
+# Questions we are asked most often
+
+### Working together
+**How do we start a project?**
+Send a short description on Telegram: the task, the audience, the deadline if there is one. We answer with clarifying questions, suggest an approach and a timeline estimate, then agree on the first version scope.
+
+**How long does a project take?**
+A landing page or a small service — 4 to 6 weeks. A product with accounts, payments and an admin panel — 8 to 12 weeks. After discovery you get a stage-by-stage plan with dates.
+
+**How do you estimate the cost?**
+We estimate by scope, not by hours spent: we break the work into stages, agree on the first-version scope and name a fixed price for it. Changes are estimated separately and never added silently.
+
+### Technology
+**Why Astro and not Next.js?**
+For content-heavy marketing sites Astro ships zero JavaScript by default and builds each page as static HTML, which makes 100/100/100/100 realistic instead of aspirational. For a product with a lot of client state we would pick React or Next.js instead — the choice follows the task.
+
+**How exactly do you reach 100/100/100/100 in Lighthouse?**
+Prerendered HTML, inlined CSS, AVIF and WebP images with correct sizes, self-hosted font subsets, no third-party scripts, real accessibility work and no console errors. The measurements and the whole recipe are documented in our blog.
+
+**Do you work with legacy code?**
+Yes. We start with an audit: what can be kept, what must be rewritten and where the real risks are. Then we improve gradually, keeping the product alive rather than freezing it for a rewrite.
+
+### Design
+**How does the process work with a designer?**
+Discovery and research, then wireframes, then a visual language and a clickable prototype. You see and approve each stage before the next one starts, so no surprises at the end.
+
+**How many iterations are included?**
+Two rounds of revisions per stage are included: they cover the normal course of refinement. Larger changes of direction are estimated separately — and we tell you when a request starts to change the concept.
+
+### After launch
+**What happens after launch?**
+We hand over documentation and access, monitor the first days, fix what appears. Then you choose: a support package with an SLA, hourly help or a full hand-off to your team.
+
+**Is there a guarantee?**
+Yes: bugs that come from our code within the agreed warranty period are fixed free of charge. The period is written into the contract and covers the code we wrote, not third-party changes.
+
+### About the studio
+**Are you a studio or freelancers?**
+Two senior specialists working as one team with a single point of contact. This is why there is no account manager in the middle and no junior team you have never met.
+
+**Can we hire only a developer or only a designer?**
+Yes, if the other side is covered on your end. In that case we agree on interfaces and hand-off format in advance so the result fits your process.
+
+URL: https://goodsitedevelopment.github.io/agency/contacts/
+
+# Let's discuss your project
+
+The fastest way is Telegram: write two or three sentences about the task. We reply within one business day with questions and an approach.
+telegram: https://t.me/gsd_moscow (@gsd_moscow).
+1. You write a short message on Telegram
+2. We ask 3–5 clarifying questions and suggest an approach
+3. You get a scope, a timeline and a rough estimate
+4. We agree on the start date and the first demo
+
+
+---
+
+## Полный текст сайта для ИИ-агентов — ru
+
+URL: https://goodsitedevelopment.github.io/agency/ru/
+
+# Студия разработки веб-приложений
+
+Проектируем и разрабатываем цифровые продукты, которые работают
+
+Fullstack-разработка, продуктовый дизайн, AI-агенты и DevOps. Отвечаем за весь путь: от первого наброска до метрик в продакшене.
+
+Метрики: 20 — лет в разработке; 100/100 — Lighthouse на проектах; 2 — человека, без джунов; 6 — языков на сайте.
+Факты: Fullstack: Go, .NET, Node.js, React; Инфраструктура: Docker, Kubernetes, CI/CD; AI: агенты, RAG, локальные модели; Доступность: WCAG 2.2 AA.
+
+### Услуги и форматы работы
+
+#### Fullstack-разработка
+Проектируем архитектуру и пишем код целиком: фронтенд на React или Astro, бэкенд на Go, .NET или Node.js, база данных, интеграции и наблюдаемость. Отдаём работающий продукт с документацией и тестами, а не набор файлов.
+Технологии: React, Astro, TypeScript, Go, .NET, Node.js, PostgreSQL.
+
+#### Продуктовый UI/UX-дизайн
+Начинаем с задач пользователя и метрик бизнеса, а не с красивых экранов. Дизайн-система живёт в Figma с токенами, состояниями и адаптивом, а затем переходит в код без привычного расхождения «макет против прода».
+Технологии: Figma, Design tokens, Дизайн-системы, WCAG 2.2 AA.
+
+#### Telegram WebApp и боты
+Telegram WebApp с нативным ощущением: авторизация через initData, тема и haptics, оплата, push-сценарии. Боты работают на вебхуках с очередями, ретраями и админкой, которой реально пользуется поддержка.
+Технологии: Telegram WebApp, Bot API, Webhooks, React, Go.
+
+#### AI-агенты и RAG
+Встраиваем AI туда, где он экономит часы: агенты поддержки и продаж, RAG по внутренним документам, извлечение данных из писем и PDF. Следим за качеством ответов и стоимостью запроса, данные остаются под вашим контролем.
+Технологии: Python, FastAPI, RAG, Векторный поиск, llama.cpp, CrewAI.
+
+#### Архитектура и DevOps
+Инфраструктура, описанная кодом, сборка и выкладка одной командой, метрики, логи и алерты. Цель — скучные релизы: без ручных шагов и ночных восстановлений.
+Технологии: Docker, Kubernetes, Helm, GitHub Actions, Grafana.
+
+#### Аудит и производительность
+Смотрим реальные Core Web Vitals, находим причины медленной загрузки и дорогих запросов, затем чиним: картинки и шрифты, лишний JavaScript, кэширование, доступность. Отчёт с замерами до и после — часть аудита.
+Технологии: Lighthouse, Core Web Vitals, AVIF/WebP, Профилирование.
+
+#### Микросервисы и BFF
+Выделяем сервисы по бизнес-границам, добавляем BFF, чтобы фронтенд не собирал данные из десяти ручек, настраиваем контракты и версионирование API. Делаем постепенно, не останавливая продукт.
+Технологии: REST, gRPC, BFF, Kafka, OpenAPI.
+
+#### Технический консалтинг
+Подключаемся как внешний эксперт: разбираем архитектуру и узкие места, помогаем с выбором стека, участвуем в найме и код-ревью, обучаем команду. Формат — регулярные встречи и письменные выводы.
+Технологии: Архитектура, Код-ревью, Найм, Обучение команды.
+
+### Как мы работаем
+
+01. Discovery. Разбираем задачу и контекст: кто пользователи, какие метрики важны, что уже существует. Фиксируем объём первой версии и то, что в неё сознательно не входит. Согласованный объём первой версии и оценка сроков.
+02. Дизайн. Сначала прототип ключевых экранов, затем визуальный язык и дизайн-система с токенами, состояниями и мобильным адаптивом. Кликабельный прототип и дизайн-система в Figma.
+03. Разработка. Короткие итерации с демо каждую неделю: фронтенд, бэкенд, интеграции, инфраструктура. Код в вашем репозитории с первого дня. Работающие сборки в staging и полный доступ к коду.
+04. Тестирование. Автотесты на критичные сценарии, проверка доступности по WCAG 2.2 AA, нагрузка на узких местах и замеры Core Web Vitals. Отчёт о тестах и метриках до релиза.
+05. Запуск и поддержка. Выкладка в продакшен, мониторинг, документация и передача команде. Дальше — поддержка по договорённости или чистая передача внутрь. Прод, инструкции, план развития.
+
+### Форматы работы
+
+#### Проект под ключ
+Фиксируем объём первой версии, делаем дизайн и разработку целиком, отдаём готовый продукт.
+4–12 недель. Полное погружение, демо каждую неделю. Готовый продукт, документация, код в вашем репозитории. Запуск нового сервиса или сайта с нуля.
+
+#### Выделенная команда
+Работаем как часть вашей команды на постоянной основе: разработка, дизайн, ревью, инфраструктура.
+от 1 месяца, продлевается. Ваши спринты и ритуалы, общая доска. Прирост скорости и сокращающийся бэклог. Продукт, который развивается постоянно.
+
+#### Технический аудит
+Разбираем архитектуру, производительность и доступность, показываем риски и план работ по приоритетам.
+1–2 недели. Разовый проект с интервью вашей команды. Отчёт с замерами, рисками и планом исправлений. Наследие, медленный сайт, подготовка к росту.
+
+#### Консалтинг
+Регулярные встречи по архитектуре, найму и процессам, код-ревью и помощь вашей команде.
+по часам или пакетом. Встречи, письменные выводы, ревью кода. Решения, которые команда внедряет сама. Команды, которым нужно второе экспертное мнение.
+
+### AI у нас не модное слово, а рабочий инструмент
+
+Делаем агентов, которые закрывают обращения в поддержку, RAG-поиск по внутренним документам и пайплайны извлечения данных из писем и PDF. Со стоимостью запроса под контролем.
+
+- Агенты и RAG поверх вашей базы знаний
+- Локальные модели, когда данные не должны покидать контур
+- Оценка качества: измеряем точность ответов, а не «ощущения»
+- Контроль стоимости: токены, кэш и запасные сценарии на запрос
+- Интеграция с CRM, службой поддержки и ERP
+
+URL: https://goodsitedevelopment.github.io/agency/ru/about/
+
+# Студия из двух человек, а не безликое агентство
+
+GoodSiteDevelopment — разработчик с 20-летним опытом и продуктовый дизайнер, сделавший десятки интерфейсов. Вы общаетесь с теми, кто пишет код и рисует экраны.
+
+Мы дуэт: разработчик и продуктовый дизайнер, которые ещё и семья. Начали работать вместе на проектах, где одному человеку приходилось закрывать и техническую, и визуальную часть.
+
+Оказалось, что команда из двух человек двигается быстрее цепочки отделов: решения принимаются в одном разговоре, дизайн и код не расходятся, а между этапами ничего не теряется.
+
+Сегодня мы берём проекты, где важны обе стороны: сервис, который должен быть быстрым, доступным и коммерчески жизнеспособным, — а не только красивая вёрстка или работающий API.
+
+#### Разработчик — Бэкенд, фронтенд, инфраструктура, AI
+20 лет в разработке: от корпоративных систем на .NET до сервисов на Go и AI-пайплайнов. Отвечаю за архитектуру, качество кода и цифры в конце — время ответа, доступность и оценку Lighthouse.
+- Языки: Go, C#/.NET, TypeScript, Python
+- Фронтенд: React, Astro, дизайн-системы в коде
+- Инфраструктура: Docker, Kubernetes, CI/CD, мониторинг
+- AI: агенты, RAG, локальные модели, оценка качества
+- Доступность и производительность как инженерные требования
+
+#### Продуктовый дизайнер — UX-исследования, интерфейсы, дизайн-системы
+Проектирую интерфейсы, которыми пользуются без инструкций: от исследований и прототипов до дизайн-системы, которую разработчики внедряют без догадок. Доступность для меня часть ремесла, а не чек-лист в конце.
+- UX-исследования, интервью, карты пути пользователя
+- Вайрфреймы, прототипы, юзабилити-тесты
+- Дизайн-системы, токены, документация компонентов
+- Адаптивные и доступные макеты, WCAG 2.2 AA
+- Передача из Figma в продакшен без расхождений
+
+#### Ценности
+- Прозрачность: Видимый прогресс, честные оценки, никакой работы «в тёмную».
+- Качество: Важны детали: от названий до запроса длиной в две миллисекунды.
+- Партнёрство: Спорим за правильное решение, а не молча выполняем бриф.
+- Ответственность: Остаёмся после запуска: метрики, поддержка, улучшения.
+
+URL: https://goodsitedevelopment.github.io/agency/ru/faq/
+
+# Вопросы, которые нам задают чаще всего
+
+### Работа над проектом
+**Как начать проект?**
+Напишите в Telegram короткое описание: задача, аудитория, сроки, если они есть. Ответим уточняющими вопросами, предложим подход и оценку сроков, затем согласуем объём первой версии.
+
+**Какие сроки?**
+Лендинг или небольшой сервис — 4–6 недель. Продукт с аккаунтами, оплатой и админкой — 8–12 недель. После discovery вы получаете план по этапам с датами.
+
+**Как вы оцениваете стоимость?**
+Считаем по объёму, а не по потраченным часам: разбиваем работу на этапы, согласуем объём первой версии и называем фиксированную цену за него. Изменения оцениваются отдельно и никогда не добавляются молча.
+
+### Технологии
+**Почему Astro, а не Next.js?**
+Для контентных сайтов Astro по умолчанию отдаёт ноль JavaScript и собирает каждую страницу статическим HTML — поэтому 100/100/100/100 становится реальностью, а не обещанием. Для продукта с большим количеством клиентского состояния возьмём React или Next.js: выбор идёт от задачи.
+
+**Как именно вы получаете 100/100/100/100 в Lighthouse?**
+Пре-рендер HTML, встроенный CSS, картинки в AVIF и WebP с правильными размерами, свои урезанные сабсеты шрифтов, ноль сторонних скриптов, настоящая работа над доступностью и отсутствие ошибок в консоли. Замеры и весь рецепт описаны в блоге.
+
+**Работаете ли с legacy-кодом?**
+Да. Начинаем с аудита: что можно сохранить, что нужно переписать и где реальные риски. Затем улучшаем постепенно, оставляя продукт живым, а не замораживая его на время переписывания.
+
+### Дизайн
+**Как строится процесс с дизайнером?**
+Discovery и исследование, затем вайрфреймы, затем визуальный язык и кликабельный прототип. Каждый этап вы видите и утверждаете до начала следующего — сюрпризов в конце не будет.
+
+**Сколько итераций включено?**
+Два круга правок на этап: этого хватает на нормальную шлифовку. Существенные развороты концепции оцениваются отдельно — и мы говорим, когда запрос начинает менять концепцию.
+
+### После запуска
+**Что после запуска?**
+Передаём документацию и доступы, следим за работой в первые дни, правим то, что проявилось. Дальше на выбор: пакет поддержки с SLA, помощь по часам или полная передача вашей команде.
+
+**Есть ли гарантия?**
+Да: ошибки, которые происходят из нашего кода, в согласованный гарантийный период исправляем бесплатно. Период фиксируется в договоре и покрывает наш код, а не сторонние изменения.
+
+### О студии
+**Вы работаете как студия или как фрилансеры?**
+Два senior-специалиста, работающие одной командой с единой точкой контакта. Поэтому в середине нет аккаунт-менеджера и нет команды джунов, которых вы не видели.
+
+**Можно нанять только разработчика или только дизайнера?**
+Да, если вторая часть закрыта на вашей стороне. Тогда заранее договариваемся об интерфейсах и формате передачи, чтобы результат встроился в ваш процесс.
+
+URL: https://goodsitedevelopment.github.io/agency/ru/contacts/
+
+# Давайте обсудим ваш проект
+
+Быстрее всего в Telegram: напишите два-три предложения о задаче. Ответим в течение рабочего дня — вопросами и подходом.
+telegram: https://t.me/gsd_moscow (@gsd_moscow).
+1. Вы пишете короткое сообщение в Telegram
+2. Мы задаём 3–5 уточняющих вопросов и предлагаем подход
+3. Вы получаете объём, сроки и предварительную оценку
+4. Согласуем дату старта и первую демонстрацию
