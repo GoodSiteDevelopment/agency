@@ -140,7 +140,7 @@ We estimate by scope, not by hours spent: we break the work into stages, agree o
 For content-heavy marketing sites Astro ships zero JavaScript by default and builds each page as static HTML, which makes 100/100/100/100 realistic instead of aspirational. For a product with a lot of client state we would pick React or Next.js instead — the choice follows the task.
 
 **How exactly do you reach 100/100/100/100 in Lighthouse?**
-Prerendered HTML, inlined CSS, AVIF and WebP images with correct sizes, self-hosted font subsets, no third-party scripts, real accessibility work and no console errors. The measurements and the whole recipe are documented in our blog.
+Prerendered HTML, inlined CSS, AVIF and WebP images with correct sizes, self-hosted font subsets, real accessibility work and no console errors. The only third-party code is two analytics counters, and neither loads until the visitor does something — scrolls, clicks or presses a key — so they never run during a measurement. The measurements and the whole recipe are documented in our blog.
 
 **Do you work with legacy code?**
 Yes. We start with an audit: what can be kept, what must be rewritten and where the real risks are. Then we improve gradually, keeping the product alive rather than freezing it for a rewrite.
@@ -316,7 +316,7 @@ URL: https://goodsitedevelopment.github.io/agency/ru/faq/
 Для контентных сайтов Astro по умолчанию отдаёт ноль JavaScript и собирает каждую страницу статическим HTML — поэтому 100/100/100/100 становится реальностью, а не обещанием. Для продукта с большим количеством клиентского состояния возьмём React или Next.js: выбор идёт от задачи.
 
 **Как именно вы получаете 100/100/100/100 в Lighthouse?**
-Пре-рендер HTML, встроенный CSS, картинки в AVIF и WebP с правильными размерами, свои урезанные сабсеты шрифтов, ноль сторонних скриптов, настоящая работа над доступностью и отсутствие ошибок в консоли. Замеры и весь рецепт описаны в блоге.
+Пре-рендер HTML, встроенный CSS, картинки в AVIF и WebP с правильными размерами, свои урезанные сабсеты шрифтов, настоящая работа над доступностью и отсутствие ошибок в консоли. Единственный сторонний код — два счётчика аналитики, и ни один из них не загружается до первого действия посетителя (прокрутки, клика или нажатия клавиши), поэтому во время замера они не выполняются. Замеры и весь рецепт описаны в блоге.
 
 **Работаете ли с legacy-кодом?**
 Да. Начинаем с аудита: что можно сохранить, что нужно переписать и где реальные риски. Затем улучшаем постепенно, оставляя продукт живым, а не замораживая его на время переписывания.

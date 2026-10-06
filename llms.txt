@@ -17,14 +17,14 @@ Key facts: 20 years in development; 100/100 Lighthouse on shipped projects; 2 pe
 
 ## Pages
 
-- [Home (Web application development studio)](https://goodsitedevelopment.github.io/agency/): GoodSiteDevelopment designs and builds web products: fullstack apps, UI/UX, AI agents and RAG, Telegram WebApp, DevOps. A two-person studio with a 100/100/100/100 Lighthouse track record.
+- [Home (Web application development studio)](https://goodsitedevelopment.github.io/agency/): GoodSiteDevelopment designs and builds web products: fullstack apps, UI/UX, AI agents and RAG, Telegram WebApp, DevOps. Two people, no juniors, 100/100/100/100 Lighthouse.
 - [Services](https://goodsitedevelopment.github.io/agency/services/): Fullstack development, product UI/UX design, Telegram WebApp, AI agents and RAG, architecture and DevOps, audits and technical consulting.
 - [Cases](https://goodsitedevelopment.github.io/agency/cases/): Selected GoodSiteDevelopment projects: web platforms, AI assistants, Telegram apps and performance work, each with the problem, the decisions and the measured result.
 - [About](https://goodsitedevelopment.github.io/agency/about/): GoodSiteDevelopment is a developer with 20 years of experience and a product designer. We work as partners, not as a vendor: same people from discovery to production.
 - [Insights](https://goodsitedevelopment.github.io/agency/blog/): Practical notes on performance, architecture, AI agents and design systems — with numbers, code and trade-offs, written by the people who shipped them.
 - [FAQ](https://goodsitedevelopment.github.io/agency/faq/): How we start, how long it takes, how we price, how we reach 100/100/100/100 in Lighthouse and what happens after launch.
 - [Contacts](https://goodsitedevelopment.github.io/agency/contacts/): Message us on Telegram to get a first answer within one business day: scope, timeline and a rough estimate before any contract.
-- [Privacy policy](https://goodsitedevelopment.github.io/agency/privacy/): What data this website processes: no analytics, no cookies, no forms — only your language and theme choice stored locally in your browser.
+- [Privacy policy](https://goodsitedevelopment.github.io/agency/privacy/): What this website processes: two analytics counters — Yandex.Metrika and Google Analytics 4 — plus your language and theme choice stored locally in your browser.
 
 ## Contacts
 
